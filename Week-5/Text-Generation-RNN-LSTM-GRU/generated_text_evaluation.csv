@@ -1,0 +1,7 @@
+Generated Text,Total Words,Unique Words,Unique Ratio,Repetition Rate,Average Word Length,Model
+thou art they him though arms what your what the and upon the outweighs of them to the it me thus the,22,18,0.818,0.182,3.64,RNN Base
+thou art he but might with take to they by bloody make the and his you do not you run knows a,22,21,0.955,0.045,3.27,RNN Upgraded
+thou art more have from in battle up to us and on hear not what in flatter i honours shrug you places,22,21,0.955,0.045,3.64,LSTM Base
+thou art it them and the seeking you great incensed i with and for it than souls i first the the by,22,17,0.773,0.227,3.55,LSTM Upgraded
+thou art get and else and who where ho open have like overta'en people deserving tell eleven the might above puts tell,22,20,0.909,0.091,4.41,GRU Base
+thou art clubs general's garners a done themselves say select work's there's fly how together have hunger wish those home corn sun,22,22,1.0,0.0,4.95,GRU Upgraded
