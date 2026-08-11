@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>DriveWise</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/style.css') }}"
+    >
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>DriveWise</h1>
+
+        <p class="subtitle">
+            AI-powered car information assistant
+        </p>
+
+
+        <div class="car-selection">
+
+            <label>
+                Brand
+            </label>
+
+            <select id="brand">
+
+                <option value="Hyundai">
+                    Hyundai
+                </option>
+
+            </select>
+
+
+            <label>
+                Model
+            </label>
+
+            <select id="model">
+
+                <option value="Creta">
+                    Creta
+                </option>
+
+                <option value="Venue">
+                    Venue
+                </option>
+
+                <option value="Verna">
+                    Verna
+                </option>
+
+            </select>
+
+        </div>
+
+
+        <div class="chat-box">
+
+            <textarea
+                id="query"
+                placeholder="Ask something about the car..."
+            ></textarea>
+
+            <button id="askButton">
+                Ask DriveWise
+            </button>
+
+        </div>
+
+
+        <div id="loading">
+            Thinking...
+        </div>
+
+
+        <div id="answer">
+
+        </div>
+
+
+        <div id="sources">
+
+        </div>
+
+    </div>
+
+
+    <script
+        src="{{ url_for('static', filename='js/app.js') }}"
+    ></script>
+
+</body>
+
+</html>

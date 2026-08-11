@@ -1,0 +1,29 @@
+[
+    {
+        "document_id": "hyundai_creta",
+        "brand": "Hyundai",
+        "model": "Creta",
+        "document_type": "brochure",
+        "document_version": "2026",
+        "source_url": "",
+        "source_file": "hyundai_creta_2026.pdf"
+    },
+    {
+        "document_id": "hyundai_venue",
+        "brand": "Hyundai",
+        "model": "Venue",
+        "document_type": "brochure",
+        "document_version": "2026",
+        "source_url": "",
+        "source_file": "hyundai_venue_2026.pdf"
+    },
+    {
+        "document_id": "hyundai_verna",
+        "brand": "Hyundai",
+        "model": "Verna",
+        "document_type": "brochure",
+        "document_version": "2026",
+        "source_url": "",
+        "source_file": "hyundai_verna_2026.pdf"
+    }
+]
