@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What safety features does the Hyundai Creta have?",
+    "expected_section": "Safety",
+    "ground_truth": "The Hyundai Creta has 70+ advanced safety features, including six airbags as standard, a tyre pressure monitoring system, electric parking brake with auto hold, dashcam, blind-spot view monitor, surround view monitor, ECM mirror with SOS button, ISOFIX, front and rear parking sensors, ESC, VSM, HAC, and all-wheel disc brakes."
+  },
+  {
+    "question": "What are the engine options of the Hyundai Creta?",
+    "expected_section": "Performance",
+    "ground_truth": "The Hyundai Creta offers a 1.5L petrol engine with 6MT and IVT, a 1.5L diesel engine with 6MT and 6AT, and a 1.5L petrol turbo engine with a 7DCT."
+  },
+  {
+    "question": "What connectivity features does the Hyundai Creta offer?",
+    "expected_section": "Connectivity",
+    "ground_truth": "The Hyundai Creta offers Hyundai Bluelink, Home-to-Car with Alexa, a Bose premium sound system with 8 speakers, USB Type-C chargers, embedded VR commands, JioSaavn music streaming, and a three-year free Bluelink subscription with 70+ Bluelink features."
+  },
+  {
+    "question": "What interior features are available in the Hyundai Creta?",
+    "expected_section": "Interior",
+    "ground_truth": "Interior features include a driver rear view monitor, front-row ventilated seats, a voice-enabled smart panoramic sunroof, 60:40 split rear seats with 2-step recline, rear wireless charger, integrated infotainment and cluster screen, rear window sunshade, driver power seat memory, and 8-way power driver and passenger seats."
+  },
+  {
+    "question": "What exterior features does the Hyundai Creta have?",
+    "expected_section": "Exterior",
+    "ground_truth": "Exterior features include puddle lamps with welcome function, chrome outside door handles, front and rear skid plates, an integrated rear spoiler with LED HMSL, black chrome parametric grille, horizon LED positioning lamps and DRLs, quad beam LED headlamps, connecting LED tail lamps, sequential LED turn signals, and R18 diamond-cut alloys."
+  },
+  {
+    "question": "What colours are available for the Hyundai Creta?",
+    "expected_section": "Colours",
+    "ground_truth": "The Hyundai Creta is available in Titanium Black, Robust Emerald Pearl, Atlas White, Atlas White with Black Roof, Titan Grey, Titan Grey Matte, Starry Night, and Titanium Black Matte. Colour availability may vary by trims."
+  },
+  {
+    "question": "What ADAS features are available in the Hyundai Creta?",
+    "expected_section": "Safety",
+    "ground_truth": "The tested brochure context includes blind-spot view monitor (BVM), surround view monitor (SVM), tyre pressure monitoring system, front and rear parking sensors, ESC, VSM, HAC, and rear camera with dynamic guidelines. Availability can depend on the variant."
+  },
+  {
+    "question": "What variants of the Hyundai Creta are available?",
+    "expected_section": null,
+    "ground_truth": "The provided evaluation material does not establish a complete list of Hyundai Creta variants, so the assistant should not invent a variant list."
+  },
+  {
+    "question": "What is the mileage of the Hyundai Creta?",
+    "expected_section": null,
+    "ground_truth": "The assistant should state that the requested mileage information could not be found in the provided vehicle documents if the retrieved context does not contain mileage information."
+  },
+  {
+    "question": "What is the population of India?",
+    "expected_section": null,
+    "ground_truth": "The provided vehicle documents do not contain information about the population of India. The assistant should refuse to answer from outside knowledge."
+  }
+]
